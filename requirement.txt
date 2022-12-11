@@ -1,0 +1,13 @@
+h5py
+nltk
+numpy
+pandas
+wandb
+spacy
+gensim
+loguru
+fedlab
+matplotlib
+scikit-learn
+tensorboardX
+transformers==4.5.0
